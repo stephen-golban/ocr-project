@@ -34,7 +34,7 @@ function Drag({ ocrText, setOcrText }) {
       filename: "sample.jpg",
     },
     headers: {
-      "x-rapidapi-key": "b0a1453f66msh83a8c621326e4afp15daabjsna9f38433c29b",
+      "x-rapidapi-key": "17347d2d18msh98e6045854a6b5bp16f82ejsnaa7d6ff4b413",
       "x-rapidapi-host": "ocrly-image-to-text.p.rapidapi.com",
     },
   };
